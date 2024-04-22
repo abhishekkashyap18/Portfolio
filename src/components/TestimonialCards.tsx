@@ -19,7 +19,7 @@ const musicSchoolTestimonials = [
       quote:
         "High School",
       name: 'Shiksha Internation School',
-      title: 'Percentage - 70%',
+      title: 'Percentage - 78%',
     },
   
   ];
