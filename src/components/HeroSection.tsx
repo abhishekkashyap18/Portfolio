@@ -14,7 +14,7 @@ function HeroSection() {
       text: "I'm",
     },
     {
-      text: "Abishek",
+      text: "Abhishek",
       // className: "text-blue-500 dark:text-blue-500",
     },
     {
