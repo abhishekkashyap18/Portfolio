@@ -3,21 +3,21 @@
     "courses": [
       {
         "id": 1,
-        "title": "BLOG WEB-APP",
+        "title": "Blog Web-App",
         "slug": "https://blogshala.vercel.app/",
         "description": "Developed a fully functional, production grade web application using React.js and appwrite. Implemented features such as user authentication, CRUD operation for blog posts, and integration with the appwrite backend for database management.",
         "price": 99.99,
-        "instructor": "REACT-JS, APPWRITE, REDUX/TOOLKIT, TINYMCE, REACT-HOOK-FORM, TAILWIND CSS",
+        "instructor": "React.JS | App-write | Redux-Toolkit | TinyMCE| React-Hook-Form | Tailwind-CSS",
         "isFeatured": true,
         "image": "" 
       },
       {
         "id": 2,
-        "title": "TODO WEB-APP",
-        "slug": "https://todos-nine-ebon.vercel.app/",
-        "description": "Developed a todo web application using React.js. Implemented features such as adding, editing, and deleting tasks, as well as prioritizing tasks and marking them as completed.",
+        "title": "Anonymous Feedback System",
+        "slug": "https://truefeedback-rho.vercel.app/",
+        "description": "Developed a full-stack application for collecting anonymous feedback with robust authentication and OTP verification features. Share your Public Profile link to enjoy anonymous feedbacks.",
         "price": 109.99,
-        "instructor": "REACT.JS, CONTEXT_API, LOCAL STORAGE, TAILWIND CSS",
+        "instructor": "Next.JS| React.JS | Express | Typescript | Next-Auth | Mongo-DB | Resend | React-hook-form | shadcn | Tailwind-CSS",
         "isFeatured": true,
         "image": "/courses/piano.jpg" 
       },
