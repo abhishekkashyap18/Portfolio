@@ -3,16 +3,6 @@
     "courses": [
       {
         "id": 1,
-        "title": "Blog Web-App",
-        "slug": "https://blogshala.vercel.app/",
-        "description": "Developed a fully functional, production grade web application using React.js and appwrite. Implemented features such as user authentication, CRUD operation for blog posts, and integration with the appwrite backend for database management.",
-        "price": 99.99,
-        "instructor": "React.JS | App-write | Redux-Toolkit | TinyMCE| React-Hook-Form | Tailwind-CSS",
-        "isFeatured": true,
-        "image": "" 
-      },
-      {
-        "id": 2,
         "title": "Anonymous Feedback System",
         "slug": "https://truefeedback-rho.vercel.app/",
         "description": "Developed a full-stack application for collecting anonymous feedback with robust authentication and OTP verification features. Share your Public Profile link to enjoy anonymous feedbacks.",
@@ -22,23 +12,33 @@
         "image": "/courses/piano.jpg" 
       },
       {
+        "id": 2,
+        "title": "Blog Web-App",
+        "slug": "https://blogshala.vercel.app/",
+        "description": "Developed a fully functional, production grade web application using React.js and appwrite. Implemented features such as user authentication, CRUD operation for blog posts, and integration with the appwrite backend for database management.",
+        "price": 99.99,
+        "instructor": "React.JS | App-write | Redux-Toolkit | TinyMCE| React-Hook-Form | Tailwind-CSS",
+        "isFeatured": true,
+        "image": "" 
+      },
+      {
         "id": 3,
-        "title": "Tailwind-CSS",
-        "slug": "advanced-vocal-techniques",
-        "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+        "title": "Password Generator",
+        "slug": "https://password-generator-umber-delta.vercel.app/",
+        "description": "Developed a dynamic and secure password generator web application designed to create strong and customizable passwords. The application offers users a range of options for password length and complexity, enhancing online security.",
         "price": 119.99,
-        "instructor": "Emily Johnson",
-        "isFeatured": false,
+        "instructor": "React.js | Tailwind-CSS",
+        "isFeatured": true,
         "image": "/courses/vocalist.jpg" 
       },
       {
         "id": 4,
-        "title": "Bootstrap",
-        "slug": "drumming-mastery",
-        "description": "Master the drums with our comprehensive course covering all skill levels.",
+        "title": "Todo Web App",
+        "slug": "https://todos-nine-ebon.vercel.app/",
+        "description": "Developed a todo web application using React.js. Implemented features such as adding, editing, and deleting tasks, as well as prioritizing tasks and marking them as completed.",
         "price": 129.99,
-        "instructor": "Mike Brown",
-        "isFeatured": false,
+        "instructor": "REACT.JS, CONTEXT_API, LOCAL STORAGE, TAILWIND CSS ",
+        "isFeatured": true,
         "image": "/courses/drumming.jpg"
       },
       {
